@@ -13,7 +13,8 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-React/NodeJS/MySQL
+
+Python/React/NodeJS/MySQL
 
 ### Education
 
