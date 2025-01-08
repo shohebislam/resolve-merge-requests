@@ -2,7 +2,7 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Experience
+## Jobs
 
 ### GitHub Trainer
 
@@ -13,7 +13,9 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-Python
+
+Python/React/NodeJS/MySQL
+
 ### Education
 
 Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
